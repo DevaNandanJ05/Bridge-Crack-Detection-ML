@@ -1,0 +1,6 @@
+decks_balanced/
+metu/
+saved_models/
+__pycache__/
+*.pyc
+.env
